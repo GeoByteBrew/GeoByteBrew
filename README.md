@@ -110,14 +110,10 @@ Mobile data collection with QGIS & GeoPackage, synced to the office.
 
 ### 🚀 Featured projects
 
-<div align="center">
+<a href="https://github.com/GeoByteBrew/mon_soleil"><img src="assets/card-mon-soleil.svg" width="100%" alt="Mon Soleil — 3D solar platform" /></a>
 
-<a href="https://github.com/GeoByteBrew/mon_soleil"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GeoByteBrew&repo=mon_soleil&bg_color=0b1d2e&title_color=2ee6c5&text_color=c9d6e3&icon_color=ffb547&border_color=16324a&border_radius=12" /></a>
-<a href="https://github.com/GeoByteBrew/silent-wish-tree-montpellier-cesiumjs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GeoByteBrew&repo=silent-wish-tree-montpellier-cesiumjs&bg_color=0b1d2e&title_color=2ee6c5&text_color=c9d6e3&icon_color=ffb547&border_color=16324a&border_radius=12" /></a>
-<a href="https://github.com/GeoByteBrew/Route_Analysis_Toolkit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GeoByteBrew&repo=Route_Analysis_Toolkit&bg_color=0b1d2e&title_color=2ee6c5&text_color=c9d6e3&icon_color=ffb547&border_color=16324a&border_radius=12" /></a>
-<a href="https://github.com/GeoByteBrew/city_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GeoByteBrew&repo=city_app&bg_color=0b1d2e&title_color=2ee6c5&text_color=c9d6e3&icon_color=ffb547&border_color=16324a&border_radius=12" /></a>
-
-</div>
+<a href="https://github.com/GeoByteBrew/silent-wish-tree-montpellier-cesiumjs"><img src="assets/card-wish-tree.svg" width="49%" alt="Silent Wish Tree" /></a>
+<a href="https://github.com/GeoByteBrew/Route_Analysis_Toolkit"><img src="assets/card-route-toolkit.svg" width="49%" alt="Route Analysis Toolkit" /></a>
 
 <details>
 <summary><b>🏗️ Professional work</b> (click to expand)</summary>
@@ -137,15 +133,6 @@ Mobile data collection with QGIS & GeoPackage, synced to the office.
 |---|---|
 | 🗺️ | **Founder & President, [Association Perspectives](https://perspectives-asso.fr)**: civic tech for accessible technology and participatory mapping |
 | 👩‍💻 | **Mentor, Women in GIS**: supporting women entering the geospatial field |
-
-### 📊 Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=GeoByteBrew&show_icons=true&count_private=true&bg_color=0b1d2e&title_color=2ee6c5&text_color=c9d6e3&icon_color=ffb547&border_color=16324a&border_radius=12" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoByteBrew&layout=compact&bg_color=0b1d2e&title_color=2ee6c5&text_color=c9d6e3&border_color=16324a&border_radius=12" />
-
-</div>
 
 <br/>
 
