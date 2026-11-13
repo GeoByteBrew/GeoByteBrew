@@ -1,89 +1,139 @@
 <div align="center">
 
-# Hi, I'm Irem 👋
+<img src="assets/header.svg" width="100%" alt="I'm Irem — Geomatics Engineer · 3D Web GIS Developer" />
 
-### Geomatics Engineer · 3D Geospatial Developer · Web GIS
+<br/>
 
-**I turn spatial data into interactive 3D web experiences** — from LiDAR point clouds to digital twins of cities, running in the browser.
-
-📍 Montpellier, France &nbsp;·&nbsp; 🌐 [iremcagbayir.dev](https://iremcagbayir.dev) &nbsp;·&nbsp; 🏅 Cesium Certified Developer
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-iremcagbayir.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iremcagbayir.dev)
-[![Cesium Certified](https://img.shields.io/badge/Cesium-Certified_Developer-6CADDF?style=for-the-badge&logo=cesium&logoColor=white)](https://cesium.com)
+<a href="https://iremcagbayir.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-iremcagbayir.dev-2ee6c5?style=for-the-badge&labelColor=06121f" /></a>
+<a href="https://cesium.com"><img src="https://img.shields.io/badge/🏅_Cesium-Certified_Developer-7cc4ff?style=for-the-badge&labelColor=06121f" /></a>
+<a href="https://perspectives-asso.fr"><img src="https://img.shields.io/badge/🗺️_Founder-Perspectives-ffb547?style=for-the-badge&labelColor=06121f" /></a>
 
 </div>
 
----
+### 🛰️ `whoami`
 
-## 🗺️ What I do
+```yaml
+name:      Irem
+based_in:  Montpellier, France  # 43.61°N, 3.88°E
+role:      Geomatics Engineer · 3D Modeler · Web GIS Developer
+mission:   turn raw spatial data into 3D experiences anyone can explore in a browser
+speaks:    [Français, English, Türkçe]
+currently: building solar & digital-twin tools for cities ☀️🏙️
+```
 
-- **3D Web GIS** — CesiumJS globes, 3D Tiles, terrain and building models streamed to the browser
-- **LiDAR & point clouds** — classification, DTM/DSM generation, feature extraction
-- **City models & BIM** — CityGML / CityJSON, BIM-to-GIS integration, digital twins
-- **Spatial databases & APIs** — PostGIS schema design, spatial indexing, geo-enabled REST APIs
-- **Spatial analysis** — solar potential, shading, terrain and visibility analysis
-- **Field data workflows** — mobile collection with QGIS & GeoPackage, synced back to the office
+<img src="assets/divider.svg" width="100%" />
 
-## 🛠️ Tech stack
+### 🧭 How I work with spatial data
 
-**Geospatial**
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
-![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=flat-square&logo=osgeo&logoColor=white)
-![CesiumJS](https://img.shields.io/badge/CesiumJS-6CADDF?style=flat-square&logo=cesium&logoColor=white)
-![CityGML](https://img.shields.io/badge/CityGML-555555?style=flat-square)
-![LiDAR](https://img.shields.io/badge/LiDAR-333333?style=flat-square)
+<img src="assets/pipeline.svg" width="100%" alt="Capture → Store → Model → Serve → Insight" />
 
-**Code & Web**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**3D & CAD**
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![AutoCAD Civil 3D](https://img.shields.io/badge/Civil_3D-E51050?style=flat-square&logo=autodesk&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6B00?style=flat-square&logo=autodesk&logoColor=white)
+#### 🌍 3D Web GIS
+CesiumJS globes, 3D Tiles, terrain & building models streamed to the browser.
 
-## 🚀 Featured projects
+</td>
+<td width="33%" valign="top">
 
-| Project | What it is | Stack |
-|---|---|---|
-| ☀️ [**mon_soleil**](https://github.com/GeoByteBrew/mon_soleil) | Rooftop solar potential analysis on 3D city models, in the browser | CesiumJS · PostGIS · FastAPI · pvlib |
-| 🌳 [**Silent Wish Tree — Montpellier**](https://github.com/GeoByteBrew/silent-wish-tree-montpellier-cesiumjs) | Interactive 3D map experience of Montpellier | CesiumJS · 3D Tiles |
-| 🛣️ [**Route Analysis Toolkit**](https://github.com/GeoByteBrew/Route_Analysis_Toolkit) | Tools for route and network analysis | Python · GIS |
-| 🏙️ [**city_app**](https://github.com/GeoByteBrew/city_app) | City-focused mobile/web app | JavaScript |
+#### ☁️ LiDAR & point clouds
+Classification, DTM/DSM, feature extraction, from raw scans to clean surfaces.
 
-### 🏗️ Professional work
+</td>
+<td width="33%" valign="top">
 
-- **Wind turbine platform design** — Civil 3D plugin automating platform design for wind farm projects
-- **Field data collection** — geolocated site-visit workflow with QGIS, GeoPackage and Mergin Maps
-- **3D city & industrial modeling** — LiDAR + cadastral data → web-ready 3D buildings; LOD models for simulation
+#### 🏙️ City models & BIM
+CityGML / CityJSON, BIM ↔ GIS integration, digital twins.
 
-## 🤝 Community
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-- **Founder & President, [Association Perspectives](https://perspectives-asso.fr)** — civic tech nonprofit for accessible technology and participatory mapping
-- **Mentor, Women in GIS** — supporting women entering the geospatial field
+#### 🗄️ Spatial databases
+PostGIS schemas, spatial indexing, geo-enabled REST APIs.
 
-## 📊 GitHub stats
+</td>
+<td valign="top">
+
+#### ☀️ Spatial analysis
+Solar potential, shading, terrain, visibility and route analysis.
+
+</td>
+<td valign="top">
+
+#### 📱 Field workflows
+Mobile data collection with QGIS & GeoPackage, synced to the office.
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" />
+
+### 🧰 Toolbox
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GeoByteBrew&show_icons=true&hide_border=true&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoByteBrew&layout=compact&hide_border=true&theme=transparent" />
+**Geo** &nbsp;
+<img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" />
+<img src="https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=flat-square&logo=arcgis&logoColor=white" />
+<img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/GDAL-5CAE58?style=flat-square&logo=osgeo&logoColor=white" />
+<img src="https://img.shields.io/badge/CesiumJS-6CADDF?style=flat-square&logo=cesium&logoColor=white" />
+<img src="https://img.shields.io/badge/CityGML-0e2a40?style=flat-square" />
+<img src="https://img.shields.io/badge/LiDAR-0e2a40?style=flat-square" />
+
+<br/><br/>
+
+**Code & 3D** &nbsp;
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,js,react,fastapi,postgres,docker,linux,blender,unity,git&perline=10" />
 
 </div>
 
-## 📫 Let's connect
+<img src="assets/divider.svg" width="100%" />
 
-Open to collaborations on **3D Web GIS, digital twins and spatial data platforms**.
-
-[![Website](https://img.shields.io/badge/Website-iremcagbayir.dev-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://iremcagbayir.dev)
+### 🚀 Featured projects
 
 <div align="center">
-<sub>🇫🇷 Français · 🇬🇧 English · 🇹🇷 Türkçe</sub>
+
+<a href="https://github.com/GeoByteBrew/mon_soleil"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GeoByteBrew&repo=mon_soleil&bg_color=0b1d2e&title_color=2ee6c5&text_color=c9d6e3&icon_color=ffb547&border_color=16324a&border_radius=12" /></a>
+<a href="https://github.com/GeoByteBrew/silent-wish-tree-montpellier-cesiumjs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GeoByteBrew&repo=silent-wish-tree-montpellier-cesiumjs&bg_color=0b1d2e&title_color=2ee6c5&text_color=c9d6e3&icon_color=ffb547&border_color=16324a&border_radius=12" /></a>
+<a href="https://github.com/GeoByteBrew/Route_Analysis_Toolkit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GeoByteBrew&repo=Route_Analysis_Toolkit&bg_color=0b1d2e&title_color=2ee6c5&text_color=c9d6e3&icon_color=ffb547&border_color=16324a&border_radius=12" /></a>
+<a href="https://github.com/GeoByteBrew/city_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GeoByteBrew&repo=city_app&bg_color=0b1d2e&title_color=2ee6c5&text_color=c9d6e3&icon_color=ffb547&border_color=16324a&border_radius=12" /></a>
+
 </div>
+
+<details>
+<summary><b>🏗️ Professional work</b> (click to expand)</summary>
+<br/>
+
+- 🌬️ **Wind turbine platform design**: Civil 3D plugin automating platform design for wind farm projects
+- 📍 **Field data collection**: geolocated site-visit workflow with QGIS, GeoPackage and Mergin Maps
+- 🧊 **3D city & industrial modeling**: LiDAR + cadastral data → web-ready 3D buildings; LOD models for simulation
+
+</details>
+
+<img src="assets/divider.svg" width="100%" />
+
+### 🤝 Community
+
+| | |
+|---|---|
+| 🗺️ | **Founder & President, [Association Perspectives](https://perspectives-asso.fr)**: civic tech for accessible technology and participatory mapping |
+| 👩‍💻 | **Mentor, Women in GIS**: supporting women entering the geospatial field |
+
+### 📊 Activity
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=GeoByteBrew&show_icons=true&count_private=true&bg_color=0b1d2e&title_color=2ee6c5&text_color=c9d6e3&icon_color=ffb547&border_color=16324a&border_radius=12" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeoByteBrew&layout=compact&bg_color=0b1d2e&title_color=2ee6c5&text_color=c9d6e3&border_color=16324a&border_radius=12" />
+
+</div>
+
+<br/>
+
+<a href="https://iremcagbayir.dev"><img src="assets/footer.svg" width="100%" alt="Let's map something together → iremcagbayir.dev" /></a>
