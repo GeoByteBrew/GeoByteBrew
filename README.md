@@ -44,7 +44,7 @@ Classification, DTM/DSM, feature extraction, from raw scans to clean surfaces.
 <td width="33%" valign="top">
 
 #### 🏙️ City models & BIM
-CityGML / CityJSON, BIM ↔ GIS integration, digital twins.
+CityGML / CityJSON, Revit & IFC ↔ GIS integration, digital twins in CesiumJS & Unreal.
 
 </td>
 </tr>
@@ -87,9 +87,22 @@ Mobile data collection with QGIS & GeoPackage, synced to the office.
 
 <br/><br/>
 
-**Code & 3D** &nbsp;
+**BIM & CAD** &nbsp;
+<img src="https://img.shields.io/badge/BIM-ffb547?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/IFC-0e2a40?style=flat-square" />
+<img src="https://img.shields.io/badge/Revit-186BFF?style=flat-square&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/Civil_3D-0696D7?style=flat-square&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/InfraWorks-F47920?style=flat-square&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/Fusion_360-FF6B00?style=flat-square&logo=autodesk&logoColor=white" />
+
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=py,js,react,fastapi,postgres,docker,linux,blender,unity,git&perline=10" />
+
+**Code, 3D & real-time engines** &nbsp;
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,js,react,fastapi,postgres,docker,linux,git&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=blender,unreal,unity&perline=3" />
 
 </div>
 
