@@ -117,6 +117,16 @@ Mobile data collection with QGIS & GeoPackage, synced to the office.
 <a href="https://github.com/GeoByteBrew/silent-wish-tree-montpellier-cesiumjs"><img src="assets/card-wish-tree.svg" width="49%" alt="Silent Wish Tree" /></a>
 <a href="https://github.com/GeoByteBrew/Route_Analysis_Toolkit"><img src="assets/card-route-toolkit.svg" width="49%" alt="Route Analysis Toolkit" /></a>
 
+<details>
+<summary><b>🏗️ Also built</b> (click to expand)</summary>
+<br/>
+
+- 🛠️ **AutoCAD Civil 3D plugin**: automates repetitive grading and platform design steps
+- 📍 **Field data collection**: geolocated site-visit workflow with QGIS, GeoPackage and Mergin Maps
+- 🧊 **3D city & industrial modeling**: LiDAR + cadastral data → web-ready 3D buildings; LOD models for simulation
+
+</details>
+
 <img src="assets/divider.svg" width="100%" />
 
 ### 🤝 Community
