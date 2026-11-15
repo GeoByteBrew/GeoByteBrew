@@ -110,6 +110,8 @@ Mobile data collection with QGIS & GeoPackage, synced to the office.
 
 ### 🚀 Featured projects
 
+<a href="https://github.com/GeoByteBrew/BurningActivityAtlas"><img src="assets/card-burning-atlas.svg" width="100%" alt="Burning Activity Atlas — global MODIS–VIIRS fire record" /></a>
+
 <a href="https://github.com/GeoByteBrew/mon_soleil"><img src="assets/card-mon-soleil.svg" width="100%" alt="Mon Soleil — 3D solar platform" /></a>
 
 <a href="https://github.com/GeoByteBrew/silent-wish-tree-montpellier-cesiumjs"><img src="assets/card-wish-tree.svg" width="49%" alt="Silent Wish Tree" /></a>
